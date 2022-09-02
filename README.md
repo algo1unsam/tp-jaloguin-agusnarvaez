@@ -9,17 +9,17 @@
 Para obtener caramelos, los chicos del barrio intentarán asustar al insensible Sr. Mirca, como se describe a continuación.
  
 La capacidad de asustar de cada pibe depende de cómo es y lo que lleva puesto..
-- Macaria tiene un nivel de ira que inicialmente es de 10, pero que se incrementa cuando la hacen enojar. Su capacidad de susto surge de sumar su nivel de ira al total de las capacidades de susto de los disfraces que lleva. 
-- Pancracio asusta gritando “buuuu” y no le gusta llevar más de un disfraz. Su capacidad de susto es igual a la cantidad de 'u' de su grito típico más la capacidad de susto de su único disfraz. En un principio, usa la máscara de Drácula, ya que es su favorita. Cuando le piden que deje su disfraz no hace caso y se enoja, agregando 2 'u' a su grito. En cambio, si le dan otro disfraz deja de lado el que tenía antes y se pone el nuevo. 
+- [x] Macaria tiene un nivel de ira que inicialmente es de 10, pero que se incrementa cuando la hacen enojar. Su capacidad de susto surge de sumar su nivel de ira al total de las capacidades de susto de los disfraces que lleva. 
+- [x] Pancracio asusta gritando “buuuu” y no le gusta llevar más de un disfraz. Su capacidad de susto es igual a la cantidad de 'u' de su grito típico más la capacidad de susto de su único disfraz. En un principio, usa la máscara de Drácula, ya que es su favorita. Cuando le piden que deje su disfraz no hace caso y se enoja, agregando 2 'u' a su grito. En cambio, si le dan otro disfraz deja de lado el que tenía antes y se pone el nuevo. 
 
 Los disfraces disponibles son
-- El traje de bruja asusta 10.
-- La barba asusta 5 veces su longitud. La longitud de la barba puede variar, con el tiempo va perdiendo pelos y se acorta o la mamá de uno de los chicos le agrega pelos para que dure más.
-- Una máscara aporta 3 veces su tamaño, que es siempre el mismo, si es de Drácula, exactamente 22 unidades si es de Frankenstein y un valor equivalente a la cantidad de promesas de campaña si es de un líder político. 
+- [x] El traje de bruja asusta 10.
+- [x] La barba asusta 5 veces su longitud. La longitud de la barba puede variar, con el tiempo va perdiendo pelos y se acorta o la mamá de uno de los chicos le agrega pelos para que dure más.
+- [x] Una máscara aporta 3 veces su tamaño, que es siempre el mismo, si es de Drácula, exactamente 22 unidades si es de Frankenstein y un valor equivalente a la cantidad de promesas de campaña si es de un líder político. 
 
 El distinguido Sr Mirca sólo se asusta cuando su tolerancia es menor que la capacidad de susto del niño, y da tantos caramelos como sea la diferencia entre su tolerancia y el nivel de susto de quien lo asuste. Su tolerancia inicial es de 21 unidades y disminuye en uno tras cada intento, satisfactorio o no.
-- Pancracio guarda todos los caramelos que recibe
-- A Macaria siempre se le cae la cuarta parte de los caramelos que recibe y guarda el resto. 
+- [x] Pancracio guarda todos los caramelos que recibe
+- [x] A Macaria siempre se le cae la cuarta parte de los caramelos que recibe y guarda el resto. 
 
 Existe una bandita llamada “Legión del terror”, conformado por chicos que asustan en grupo. Se sabe que:
 
